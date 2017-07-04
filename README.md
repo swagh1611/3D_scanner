@@ -1,7 +1,7 @@
 # 3D_scanner
-This is the repository for the 3D human body scanner project. The project contains 2 versions:   
+This is the repository for the 3D human body scanner project as part of Software Engineering curriculum The project contains 2 versions:   
 1. vtk-beta: contains the beta version of the software, with all functionality working well, and the GUI is very basic.   
-2. vtk: containd the software after the final version of GUI.
+2. vtk: contains the software after the final version of GUI.
 
 The project is done using the following:
 
@@ -25,7 +25,7 @@ Chunxia,
 Darja,
 GopiKrishna,
 Hassan,
-Shubham,
+Shubham Wagh,
 Ziyang,
 Abdelrahman,
 Avinash,
